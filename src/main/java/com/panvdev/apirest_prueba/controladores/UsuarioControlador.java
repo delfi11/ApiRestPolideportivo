@@ -19,6 +19,8 @@ import com.panvdev.apirest_prueba.modelos.User;
 import com.panvdev.apirest_prueba.repositorios.UserRepositorio;
 import com.panvdev.apirest_prueba.servicios.UserServicioImplementacion;
 
+//El controlador nos dice mediante qué URL, acceder a la API para cada acción//
+
 @RestController
 @RequestMapping("/api/v1")
 public class UsuarioControlador {

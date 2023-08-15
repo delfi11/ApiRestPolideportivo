@@ -1,3 +1,4 @@
+
 create database bd_apirest_prueba;
 use bd_apirest_prueba;
 
